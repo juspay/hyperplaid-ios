@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HyperPlaid",
-            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.9.4/HyperPlaid.zip",
-            checksum: "4bcf89c43fc85f9f90b81d1af94e753da5a8ec0b1232a5d162ce317766c80671"
+            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.9.5/HyperPlaid.zip",
+            checksum: "1a049b5ff6b40233e5ff1c329da9f2317ff0678bb054ce6faab808494c4559b8"
         ),
         .target(
             name: "HyperPlaidDependencies",
